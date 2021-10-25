@@ -1,10 +1,6 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-
-
-
-## Wave <a id="wave">
-![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=WAVE)
+## Waving <a id="waving">
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
 ### Hi there 👋
 
