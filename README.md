@@ -1,6 +1,6 @@
 
 ## WAVING! <a id="waving">
-![waving](https://capsule-render.vercel.app/api?type=waving&width=1300&height=200&text=HELLO!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&width=2300&height=200&text=HELLO!&fontAlign=80&fontAlignY=40&color=gradient)
 
 ### Hi there 👋
 
